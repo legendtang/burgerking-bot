@@ -4,16 +4,6 @@ A bot for auto complete the survey from burgerking.
 
 ##Deploy within one minute
 
-
-###OpenShift
-
-1. Create an application on OpenShift, Choose **Node.js**
-2. Copy URL of this repo
-3. Paste URL into **Source Code** in OpenShift configuration page
-4. Click **Create Application**
-5. Done! You don't need any code skill to deploy, yay!
-
-
 ###Heroku
 
 Deployment to heroku is a bit more complicated than OpenShift, but still easier than any other VPS.
